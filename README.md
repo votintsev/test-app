@@ -1,10 +1,7 @@
 ## Start Local Machine
 1. Clone the repository:
-```
-git clone git@github.com:vivox-ai/zero.git
-```
 2. **Prepare your environment**. We use [Laravel Sail](https://laravel.com/docs/sail) for our development environment.
-    - Go to folder `cd zero`
+    - Go to folder `cd test-app`
     - Run the following command to set up your environment:
         ```bash
         docker run --rm \
